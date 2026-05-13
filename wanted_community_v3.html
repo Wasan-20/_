@@ -84,9 +84,6 @@ body{background:var(--dark);color:var(--text);font-family:'Cairo',sans-serif;dir
 
 <div class="hero">
   <div class="hero-bg"></div>
-  <div class="logo-wrap">
-    <img src="/mnt/user-data/uploads/2780_20260416082922.png" alt="Wanted Logo">
-  </div>
   <div class="hero-title">WANTED</div>
   <div class="hero-sub">Gaming Community</div>
   <div class="stats-row">
